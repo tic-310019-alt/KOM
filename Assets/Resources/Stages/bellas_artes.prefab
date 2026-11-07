@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4549633305177660837
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3881227728827736926}
+  - component: {fileID: 7383519658535402204}
+  - component: {fileID: 6139464732893212110}
+  m_Layer: 0
+  m_Name: bellas_artes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3881227728827736926
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4549633305177660837}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &7383519658535402204
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4549633305177660837}
+  m_Mesh: {fileID: -7902207542091224071, guid: aee65be890c13994099fd3c4329988a2, type: 3}
+--- !u!23 &6139464732893212110
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4549633305177660837}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 0bd45214ee5e1e24082ee3786ae03b2e, type: 2}
+  - {fileID: 2100000, guid: 47e785fa86091444a800aa6db100b4dd, type: 2}
+  - {fileID: 2100000, guid: 214f2ba90e8526d41b2f1eb73c74d6e5, type: 2}
+  - {fileID: 2100000, guid: bc84d3cff30d63a4da1173856e6713aa, type: 2}
+  - {fileID: 2100000, guid: 0e17c9cf685ead640ab500830ce329c7, type: 2}
+  - {fileID: 2100000, guid: 73801bb460d2ab043aaf46f1922b29c3, type: 2}
+  - {fileID: 2100000, guid: d0cdef9d03206d14c9aab427aa53846b, type: 2}
+  - {fileID: 2100000, guid: 39665973a64d48c45bea1dd4083c5962, type: 2}
+  - {fileID: 2100000, guid: e4076cebe0f452f4a92710203b88df94, type: 2}
+  - {fileID: 2100000, guid: 728ba1ccef56e0b47824be25430fdfc7, type: 2}
+  - {fileID: 2100000, guid: 8a5f5c1366894f848adf8aeb4e043237, type: 2}
+  - {fileID: 2100000, guid: 4c15b309251c1e44aa2c9735557e3038, type: 2}
+  - {fileID: 2100000, guid: aba4670e4f794834e9faeb4b7aacf667, type: 2}
+  - {fileID: 2100000, guid: ae5706469cdc95a4baa1abe9ab2962e8, type: 2}
+  - {fileID: 2100000, guid: 50dbf251840c8ae46a4e23bbbba745a0, type: 2}
+  - {fileID: 2100000, guid: 682a073567436ac43bce5b17c03acf47, type: 2}
+  - {fileID: 2100000, guid: 52e8ef7005c243546b9a9ca92f7812cf, type: 2}
+  - {fileID: 2100000, guid: ab60430226b439040b6ff1fe89134fcd, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_MaskInteraction: 0
+  m_AdditionalVertexStreams: {fileID: 0}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/KOM/MainMenu.unity
+    guid: 7d63a3f778598f442979a56f9c6c331c
+  - enabled: 1
+    path: Assets/Scenes/KOM/Story.unity
+    guid: 2b42a5c59f9d2e7418a5fc02512e750c
+  - enabled: 1
+    path: Assets/Scenes/KOM/CharacterSelect.unity
+    guid: 3dc0090348b3edc4498c00f83e21cc1b
+  - enabled: 1
+    path: Assets/Scenes/KOM/Map.unity
+    guid: 21c81090462521c4e91cb57db11abf6e
+  - enabled: 1
+    path: Assets/Scenes/KOM/Combat.unity
+    guid: 9a5db4ce2723ad24ea10216ece8367b0
+  - enabled: 1
+    path: Assets/Scenes/KOM/Ending.unity
+    guid: 10538066ffc48a84e8f8b6330318c452
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

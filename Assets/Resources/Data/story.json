@@ -1,0 +1,102 @@
+{
+  "chapters": [
+    {
+      "id": "intro",
+      "hint": "COMENZAR EL TORNEO",
+      "hintEn": "START THE TOURNAMENT",
+      "pages": [
+        {
+          "kicker": "PÁGINA 01 · EL ANUNCIO",
+          "kickerEn": "PAGE 01 · THE ANNOUNCEMENT",
+          "title": "Una fiesta para todo el país",
+          "titleEn": "A Party for the Whole Country",
+          "body": "El gobierno presenta el Torneo del Bienestar como una celebración nacional de la música mexicana: seis géneros, seis finalistas y una sola corona; las pantallas repiten el lema —un solo ritmo, un México más fuerte— y las calles lo festejan como si la música fuera un deporte nacional; nadie pregunta todavía qué pasa con el que pierde.",
+          "bodyEn": "The government presents the Wellbeing Tournament as a national celebration of Mexican music: six genres, six finalists and a single crown. The screens repeat the slogan — one rhythm, a stronger Mexico — and the streets celebrate it as if music were a national sport. Nobody asks yet what happens to the one who loses.",
+          "quote": "Nadie preguntó qué se pierde cuando todos cantan lo mismo.",
+          "quoteEn": "Nobody asked what gets lost when everyone sings the same thing.",
+          "image": "UI/Story/intro-01"
+        },
+        {
+          "kicker": "PÁGINA 02 · LAS REGLAS",
+          "kickerEn": "PAGE 02 · THE RULES",
+          "title": "Cada uno carga un género entero",
+          "titleEn": "Everyone Carries an Entire Genre",
+          "body": "En la primera reunión, los participantes descubren las reglas que no salieron en el anuncio: cada uno representa la existencia de su género, y perder no significa volver a casa con las manos vacías, sino que el género entero deja de existir; el presentador lo dice con una sonrisa y el público aplaude, los seis se miran y entienden, demasiado tarde, que ya están dentro.",
+          "bodyEn": "At the first meeting, the participants learn the rules that never made it into the announcement: each of them represents the existence of their genre, and losing does not mean going home empty-handed — it means the entire genre ceases to exist. The host says it with a smile and the crowd applauds, the six look at each other and understand, too late, that they are already inside.",
+          "quote": "Ganar era fama, perder era olvido.",
+          "quoteEn": "Winning was fame, losing was oblivion.",
+          "image": "UI/Story/intro-02"
+        },
+        {
+          "kicker": "PÁGINA 03 · LA PRIMERA NOCHE",
+          "kickerEn": "PAGE 03 · THE FIRST NIGHT",
+          "title": "La primera noche",
+          "titleEn": "The First Night",
+          "body": "Esa noche el estadio se llena y el primer combate se celebra como una final; cuando termina, el perdedor baja del escenario y, en algún archivo, una carpeta se vacía sin ruido, y en la calle un instrumento se queda sin nombre; la fiesta continúa; el torneo ya empezó y el marcador no cuenta combates: cuenta géneros que dejan de existir.",
+          "bodyEn": "That night the stadium fills up and the first fight is celebrated like a final. When it ends, the loser walks off the stage and, somewhere in the archives, a folder empties without a sound, and on the street an instrument is left without a name. The party goes on. The tournament has already begun, and the score does not count fights: it counts genres that stop existing.",
+          "quote": "La primera canción que se pierde no hace ruido.",
+          "quoteEn": "The first song to be lost makes no sound.",
+          "image": "UI/Story/intro-03"
+        }
+      ]
+    },
+    {
+      "id": "veto",
+      "hint": "VOLVER AL MAPA",
+      "hintEn": "BACK TO THE MAP",
+      "pages": [
+        {
+          "kicker": "EL VETO MUSICAL",
+          "kickerEn": "THE MUSICAL VETO",
+          "title": "Después de cada derrota",
+          "titleEn": "After Every Defeat",
+          "body": "No es una metáfora ni un castigo simbólico: es un borrado; a la mañana siguiente, las canciones del género vencido amanecen vacías en los archivos, y en las calles los instrumentos se vuelven objetos sin nombre y los bailes pierden su paso; la gente olvida primero la letra, después el ritmo y por último la razón por la que bailaba; nadie protesta, porque ya no queda con qué protestar.",
+          "bodyEn": "It is not a metaphor or a symbolic penalty: it is an erasure. The next morning, the songs of the defeated genre are found empty in the archives, and on the streets instruments become objects without a name and the dances lose their steps. People forget the lyrics first, then the rhythm, and finally the reason they danced. Nobody protests, because there is nothing left to protest with.",
+          "quote": "No se pierden las canciones: se pierde quien las recuerda.",
+          "quoteEn": "Songs are not lost: whoever remembers them is.",
+          "image": "UI/Story/veto",
+          "dwell": 26
+        }
+      ]
+    },
+    {
+      "id": "final",
+      "hint": "SUBIR AL ESCENARIO",
+      "hintEn": "TAKE THE STAGE",
+      "pages": [
+        {
+          "kicker": "LA ÚLTIMA VOZ",
+          "kickerEn": "THE LAST VOICE",
+          "title": "El torneo nunca buscó un campeón",
+          "titleEn": "The Tournament Never Wanted a Champion",
+          "body": "Queda un solo representante en pie y, por fin, la organización le muestra el tablero completo: el torneo nunca buscó un campeón, buscó una sola voz; cada género eliminado fue una voz menos con la que discutir, la corona no premia al mejor, premia al que se queda solo; en el Zócalo, entre banderas y pantallas rotas, la organizadora lo espera sin guardaespaldas: no los necesita; para devolverle su voz a los demás hay que arrebatarle la corona.",
+          "bodyEn": "One representative is left standing, and at last the organization shows him the whole board: the tournament never wanted a champion, it wanted a single voice. Every eliminated genre was one less voice to argue with, the crown does not reward the best — it rewards the one who is left alone. On the Zócalo, among flags and broken screens, the organizer waits without bodyguards: she does not need them. To give everyone their voice back, someone has to take the crown from her.",
+          "quote": "Un solo ritmo, o ninguno.",
+          "quoteEn": "One rhythm, or none.",
+          "image": "UI/Story/final",
+          "dwell": 26
+        }
+      ]
+    },
+    {
+      "id": "concert",
+      "hint": "VER EL CIERRE",
+      "hintEn": "SEE THE ENDING",
+      "pages": [
+        {
+          "kicker": "EL CONCIERTO · EL DÍA DESPUÉS",
+          "kickerEn": "THE CONCERT · THE DAY AFTER",
+          "title": "Devolver lo que se borró",
+          "titleEn": "Giving Back What Was Erased",
+          "body": "No hay corona en el centro del escenario; el campeón sube con los instrumentos de los que venció y los llama uno por uno; los derrotados vuelven a la tarima como si despertaran y tocan lo que el torneo había borrado; no es una resurrección, es que nadie se había tomado el trabajo de recordarlos; la primera canción vuelve entera —letra, ritmo y baile— con el nombre de un género que ya nadie decía; y al final quedan todos, el Zócalo suena a coro.",
+          "bodyEn": "There is no crown at the center of the stage. The champion does not come up to sing his own genre, he comes up with the instruments of those he defeated and calls them one by one. The defeated climb back onto the stage as if waking up, each one with a genre in their hands, and play what the tournament had erased. It is not a resurrection, it is that nobody had taken the trouble to remember them. The first song returns whole —lyrics, rhythm and dance— and with it the name of a genre nobody said out loud anymore. In the end there is no champion left alone on the stage, there are all of them, and the Zócalo sounds in chorus.",
+          "quote": "México no se canta a una voz, se canta a coro.",
+          "quoteEn": "Mexico is not sung in one voice, it is sung in chorus.",
+          "image": "UI/Story/concert",
+          "dwell": 26,
+          "wash": 0.82
+        }
+      ]
+    }
+  ]
+}

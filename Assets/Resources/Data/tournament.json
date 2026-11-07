@@ -1,0 +1,58 @@
+{
+  "title": "Torneo del Bienestar",
+  "titleEn": "Wellbeing Tournament",
+  "opponentRotation": [
+    "jose_jose",
+    "alex_llora",
+    "roman_ayala",
+    "natanael_chano",
+    "peso_plomo",
+    "juan_grabriel"
+  ],
+  "nodes": [
+    {
+      "id": "madrugadora_1",
+      "stageId": "la_madrugadora",
+      "label": "La Madrugadora",
+      "labelEn": "La Madrugadora",
+      "aiProfile": "rookie",
+      "difficulty": 1,
+      "seed": 1101,
+      "mapX": 0.259,
+      "mapY": 0.363
+    },
+    {
+      "id": "bellas_artes_1",
+      "stageId": "bellas_artes",
+      "label": "Bellas Artes",
+      "labelEn": "Bellas Artes",
+      "aiProfile": "contender",
+      "difficulty": 2,
+      "seed": 2202,
+      "mapX": 0.351,
+      "mapY": 0.689
+    },
+    {
+      "id": "zocalo_1",
+      "stageId": "zocalo",
+      "label": "Zócalo CDMX",
+      "labelEn": "Zócalo CDMX",
+      "aiProfile": "veteran",
+      "difficulty": 3,
+      "seed": 3303,
+      "mapX": 0.7495,
+      "mapY": 0.355
+    },
+    {
+      "id": "zocalo_final",
+      "stageId": "zocalo_final",
+      "label": "Zócalo · Gran Final",
+      "labelEn": "Zócalo · Grand Final",
+      "aiProfile": "boss",
+      "difficulty": 4,
+      "seed": 4404,
+      "mapX": 0.7495,
+      "mapY": 0.355
+    }
+  ]
+}
